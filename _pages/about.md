@@ -1,6 +1,10 @@
-Hello, I'm Ethan Huang, an undergraudate freshman majoring in Artificial Intelligence at UCSD. Recently, I've begun trying to learn more about Natural Language Processing and transformers. I'm originally from the Bay, but excited to learn in this somewhat new environment in SoCal. 
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-##### Miscellaneous
-- Eighth College
-- I love boba/coffee, long runs by the coast, Japanese food
-- I play viola in the orchestra
+I'm Ethan Huang, an AI major at UCSD! 
