@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ethan Huang Home Page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm Ethan Huang, an AI major at UCSD! 
+I'm Ethan Huang, an AI major at UCSD!
